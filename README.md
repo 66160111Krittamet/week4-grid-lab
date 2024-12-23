@@ -20,4 +20,4 @@
 - git commit -m "เพิ่ม Hover และ Loading Animations"
 - git commit -m "เพิ่ม Filter Animations"
 - git commit -m "เชื่อมต่อ JavaScript"
-- git commit -m "เพิ่มคำสั่งที่ใช้ใน REDME"
+- git commit -m "เพิ่มคำสั่งที่ใช้ใน README"
